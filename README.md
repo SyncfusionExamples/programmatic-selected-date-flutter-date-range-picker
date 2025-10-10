@@ -1,7 +1,7 @@
-# Flutter Date Range Picker date select
+# Flutter Date Range Picker programmatic select date
 
 
-his repository contains a sample that demonstrates how to select a date in the Syncfusion® Date Range Picker package.
+This repository contains a sample that demonstrates how to select a date programmatic in the Syncfusion® Date Range Picker package.
 
 
 ## Syncfusion® controls:
